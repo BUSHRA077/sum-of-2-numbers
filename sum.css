@@ -1,0 +1,37 @@
+* {
+    background-color: aquamarine;
+}
+
+p {
+    font-family: sans-serif;
+    font-style: italic;
+    color: rgb(230, 69, 144);
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    text-decoration: beige;
+}
+
+input {
+    background-color: cadetblue;
+}
+
+button {
+    background-color: rgb(172, 250, 46);
+    width: 4em;
+    margin-left: 50%;
+    justify-self: center;
+}
+
+#box {
+    border: solid black;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 100px;
+    width: 400px;
+    height: 260px;
+}
+
+h1 {
+    margin-left: 35%;
+}
